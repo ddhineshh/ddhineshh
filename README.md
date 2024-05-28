@@ -16,7 +16,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-> I have 8 months of experience in Software Industry at 10xOKR, Banglore, India <br>
+> I have 1.4 years of experience in Software Industry at TechnicaX, Chennai, India <br>
 > To reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dhinesh-green?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thirudhinesh/)
 
 <hr></hr>
